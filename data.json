@@ -1,0 +1,6 @@
+
+{
+  "message": "Update JSON data",
+  "content": "{base64_encoded_json_data}",
+  "sha": "{file_sha}"
+}
